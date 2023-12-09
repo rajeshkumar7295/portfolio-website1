@@ -7,3 +7,10 @@
 html{
     scroll-behavior: smooth;
 }
+
+@media (min-width:500px) and (max-width:640px){
+    .hero-custom{
+      gap:10rem;
+    }
+    
+}

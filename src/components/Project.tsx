@@ -69,7 +69,7 @@ const Project = () => {
             <h1 className='md:text-3xl text-2xl  font-extrabold mb-6'>Personal Portfolio Website</h1>
 
             <p className='text-[#6d6a7c] font-Poppins font-semibold text-[16px]'>My Personal Portfolio Website made using React.js, Typescript, Vite.js and Tailwind CSS.</p>
-            <Link target='_blank' to={"https://weather-app-sigma-liart.vercel.app/"} >
+            <Link target='_blank' to={"https://portfolio-website-beta-lyart.vercel.app/"} >
             <div className="bg-[#6E57E0] mt-4 sm:text-base text-sm text-white w-fit items-center gap-2 sm:gap-4 sm:px-4 px-3  py-4 font-semibold rounded-md font-Poppins flex ">
               check out
               <BiRightArrowAlt/>

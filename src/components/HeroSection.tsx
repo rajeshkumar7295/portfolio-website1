@@ -16,7 +16,7 @@ const HeroSection = () => {
   })
 
   return (
-    <div id="home" className="max-w-[968px] select-none  mb-40 mx-auto  sm:flex-row flex gap-20 lg:gap-32 sm:items-center  items-start pt-36">
+    <div id="home" className="max-w-[968px] select-none  mb-40 mx-auto hero-custom sm:flex-row  flex gap-12 lg:gap-32 sm:items-center  items-start pt-24">
       <div className="flex flex-col  items-start  pl-6 lg:pl-0 gap-6">
         <Link target='_blank' to={"https://github.com/rajeshkumar7295"} aria-label="github">
 
@@ -37,7 +37,7 @@ const HeroSection = () => {
             Hi, I'm Rajesh</p>
           <p className="text-[20px] font-Poppins font-semibold text-[#6D6A7C]"> I {typeEffect} </p>
 
-          <p className="text-[#6D6A7C] mb-4 text-[16px] font-Poppins">
+          <p className="text-[#6D6A7C] w-[80%] md:w-[100%] mb-4 text-[16px] font-Poppins">
             Building Website to solve real life problems
           </p>
           <Link to={"/contact"} >
