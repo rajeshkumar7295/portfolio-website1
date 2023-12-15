@@ -12,7 +12,7 @@ import { Link } from 'react-router-dom';
 const Project = () => {
   return (
     <>
-      <h1 id='project' className=' pt-20 text-3xl sm:text-4xl font-bold text-center'>Projects</h1>
+      <h1 id='project' className=' pt-20 text-3xl sm:text-3xl font-bold text-center'>Projects</h1>
       <p className="text-[#6d6a7c] text-center mt-2">Most recent work</p>
       <div className=' max-w-[968px] mx-auto my-10 select-none' >
 
